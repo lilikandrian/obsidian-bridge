@@ -39,5 +39,18 @@ Makanya baca yang bener
 
 eh d mac click pull, langsung muncul.
 
+<<<<<<< HEAD
 
 ia gw tau lo commig terus push, dan gw blm syncron. sekarang kita liat gmn......
+=======
+Nah sekarang gw commit terus push
+
+
+
+katanya jadi error....
+
+
+
+
+woii.,a.s,mclkajndcjn
+>>>>>>> 9d3cbe75438d8cf63ae0e500a0b239a3d469b4c8
