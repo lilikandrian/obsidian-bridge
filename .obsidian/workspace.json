@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "bd3dc57b1d72a476",
+    "type": "split",
+    "children": [
+      {
+        "id": "66c9842cb6840caa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3b61ee8599aa2e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Folder from mac/test from mac.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc198d6408b371e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3840268763eedf21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f9510e655d48f08",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8075ccb8e413415",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a609d2a7fa3408ff",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "179f3eb1bfbdeea1",
+    "type": "split",
+    "children": [
+      {
+        "id": "23ce1350e4605b3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cceb4d3e904cc40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Folder from mac/test from mac.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f74901af3a667b8c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Folder from mac/test from mac.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad28dba75eaa3a4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0fed125036be077d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Folder from mac/test from mac.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d3b61ee8599aa2e5",
+  "lastOpenFiles": []
+}
