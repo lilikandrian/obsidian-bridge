@@ -6,3 +6,7 @@ Buat dari iphone
 
 buat di mac
 kok gak masuk yang dr iohoe
+
+Nulis di iphone, lalu commit d iphone menggunakan working copy.
+
+
