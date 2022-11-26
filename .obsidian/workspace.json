@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c57adcecd23f737a",
+        "id": "814c967c636eb302",
         "type": "tabs",
         "children": [
           {
-            "id": "41f9e0384a01db5d",
+            "id": "2702b749178be22e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -136,10 +136,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "41f9e0384a01db5d",
+  "active": "2702b749178be22e",
   "lastOpenFiles": [
-    "Folder from mac/coba lagi dr macbook.md",
     "Folder from mac/test from mac.md",
+    "Folder from mac/coba lagi dr macbook.md",
     "From iphone/Iphone.md",
     "README.md",
     "assets/title.png",
