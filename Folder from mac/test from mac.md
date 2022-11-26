@@ -10,3 +10,4 @@ kok gak masuk yang dr iohoe
 Nulis di iphone, lalu commit d iphone menggunakan working copy.
 
 
+di iphone baru kommit, terus d mac laghi nulis dan blm pull. lalu pull dr mac
