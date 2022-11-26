@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "42dc7b79f895eac3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1293240408e31511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccfe94aab132901b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "From iphone/Iphone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f2fcb97dc53aac8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "455540fe910b3ba2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "88ab041bfb6cca85",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "81de1daf397038b1",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "06dbea6fd21cec2b",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "681dc4e5fd79e81a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "021bbab9161bf712",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "From iphone/Iphone.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "eb0a13f8bba48ae3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "From iphone/Iphone.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "75750b5fa9d09a61",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "From iphone/Iphone.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "ccfe94aab132901b",
+  "lastOpenFiles": []
+}
