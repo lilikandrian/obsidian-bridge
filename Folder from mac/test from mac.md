@@ -27,3 +27,6 @@ Kl di macb upload duluan bisa langsung masuk. Iyes....
 
 ternyata kl upload dr iphone, setelah melakukan perubahan  dan commit lalju tekan pull.
 nah sekarang kita
+
+
+Uyeah berhasil, jd setelah commit, langkah selanjutnya itu di full
