@@ -32,3 +32,7 @@ nah sekarang kita
 Uyeah berhasil, jd setelah commit, langkah selanjutnya itu di full
 
 ada logo masuk download d mack bukan d full, tapi tekan logo download.
+
+
+Di pull apa dipush, dongo
+Makanya baca yang bener
