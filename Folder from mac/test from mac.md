@@ -18,3 +18,9 @@ gak tau nih, bodo amat.
 
 
 di iphone baru kommit, terus d mac laghi nulis dan blm pull. lalu pull dr mac
+
+
+
+
+Wkwkkwkkk
+Kl di macb upload duluan bisa langsung masuk. Iyes....
