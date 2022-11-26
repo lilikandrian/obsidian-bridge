@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f80530c96fd85688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Folder from mac/coba lagi dr macbook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Folder from mac/test from mac.md",
+                "file": "Folder from mac/coba lagi dr macbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Folder from mac/test from mac.md",
+                "file": "Folder from mac/coba lagi dr macbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Folder from mac/test from mac.md"
+                "file": "Folder from mac/coba lagi dr macbook.md"
               }
             }
           }
@@ -136,11 +149,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d3b61ee8599aa2e5",
+  "active": "4f9510e655d48f08",
   "lastOpenFiles": [
+    "Folder from mac/test from mac.md",
     "README.md",
     "assets/title.png",
-    "CHANGELOG.md",
-    "Folder from mac/test from mac.md"
+    "CHANGELOG.md"
   ]
 }
