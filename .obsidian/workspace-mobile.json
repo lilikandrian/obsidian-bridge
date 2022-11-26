@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "From iphone/Iphone.md",
+                "file": "Folder from mac/test from mac.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "From iphone/Iphone.md",
+            "file": "Folder from mac/test from mac.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "From iphone/Iphone.md",
+            "file": "Folder from mac/test from mac.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "From iphone/Iphone.md"
+            "file": "Folder from mac/test from mac.md"
           }
         }
       }
@@ -122,5 +122,7 @@
     "currentTab": 0
   },
   "active": "ccfe94aab132901b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "From iphone/Iphone.md"
+  ]
 }
