@@ -38,3 +38,5 @@ Di pull apa dipush, dongo
 Makanya baca yang bener
 
 eh d mac click pull, langsung muncul.
+
+Nah sekarang gw commit terus push
