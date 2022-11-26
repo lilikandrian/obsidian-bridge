@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Folder from mac/coba lagi dr macbook.md",
+                "file": "Folder from mac/test from mac.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Folder from mac/coba lagi dr macbook.md",
+                "file": "Folder from mac/test from mac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Folder from mac/coba lagi dr macbook.md",
+                "file": "Folder from mac/test from mac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Folder from mac/coba lagi dr macbook.md"
+                "file": "Folder from mac/test from mac.md"
               }
             }
           }
@@ -149,9 +149,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4f9510e655d48f08",
+  "active": "f80530c96fd85688",
   "lastOpenFiles": [
+    "From iphone/Iphone.md",
     "Folder from mac/test from mac.md",
+    "Folder from mac/coba lagi dr macbook.md",
     "README.md",
     "assets/title.png",
     "CHANGELOG.md"
