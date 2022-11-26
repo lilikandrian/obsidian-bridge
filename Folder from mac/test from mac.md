@@ -38,3 +38,6 @@ Di pull apa dipush, dongo
 Makanya baca yang bener
 
 eh d mac click pull, langsung muncul.
+
+
+ia gw tau lo commig terus push, dan gw blm syncron. sekarang kita liat gmn......
