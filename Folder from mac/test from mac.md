@@ -6,3 +6,5 @@ Buat dari iphone
 
 buat di mac
 kok gak masuk yang dr iohoe
+
+di iphone baru kommit, terus d mac laghi nulis dan blm pull. lalu pull dr mac
