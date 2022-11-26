@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "66c9842cb6840caa",
+        "id": "c57adcecd23f737a",
         "type": "tabs",
         "children": [
           {
-            "id": "d3b61ee8599aa2e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Folder from mac/test from mac.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f80530c96fd85688",
+            "id": "41f9e0384a01db5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +136,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f80530c96fd85688",
+  "active": "41f9e0384a01db5d",
   "lastOpenFiles": [
     "Folder from mac/coba lagi dr macbook.md",
     "Folder from mac/test from mac.md",
