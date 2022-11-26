@@ -36,3 +36,5 @@ ada logo masuk download d mack bukan d full, tapi tekan logo download.
 
 Di pull apa dipush, dongo
 Makanya baca yang bener
+
+eh d mac click pull, langsung muncul.
